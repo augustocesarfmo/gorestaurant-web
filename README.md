@@ -1,4 +1,4 @@
-# GoRestaurant
+# GoRestaurant - web
 
 Aplicação _web_, desenvolvida no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, criação, remoção e atualização (CRUD) de pratos de comida.
 
