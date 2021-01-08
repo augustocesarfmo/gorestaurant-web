@@ -1,6 +1,6 @@
 # GoRestaurant
 
-Aplicação _web_, desenvolvida no Bootcamp da GoStack - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, criação, remoção e atualização (CRUD) de pratos de comida.
+Aplicação _web_, desenvolvida no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, criação, remoção e atualização (CRUD) de pratos de comida.
 
 ![](https://imgur.com/j2124oL.png)
 
@@ -33,6 +33,9 @@ $ cd gorestaurant-web
 
 # Instalando as dependências
 $ yarn install
+
+# Inicializando o servidor da fake API
+$ yarn json-server server.json -p 3333
 
 # Executando o app
 $ yarn start
