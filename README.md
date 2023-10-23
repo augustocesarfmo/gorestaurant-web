@@ -1,4 +1,4 @@
-# GoRestaurant - web
+# GoRestaurant web
 
 Aplicação _web_, desenvolvida no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, criação, remoção e atualização (CRUD) de pratos de comida.
 
@@ -43,7 +43,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/gorestaurant-web/blob/main/LICENSE.md) para obter mais informações.
 
 ---
 
