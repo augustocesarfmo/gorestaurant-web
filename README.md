@@ -43,7 +43,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/gorestaurant-web/blob/main/LICENSE.md) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/gorestaurant-web/blob/master/LICENSE.md) para obter mais informações.
 
 ---
 
